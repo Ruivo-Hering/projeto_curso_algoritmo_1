@@ -1,19 +1,4 @@
-/*
-   sairLoop: caracter
-   valor01,valor02: real
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-    repita
-       escreval("Digite o 1º valor: ")
-       leia(valor01)
-       escreval("Digite o 2º valor: ")
-       leia(valor02)
-       escreval ("resultado:  ", valor01 + valor02)
-       escreval ("Deseja sair?  SIM (S) ou NÃO (N)")
-       leia (sairLoop)
-    ate sairLoop <> "N"
-    */
    function acaoBotao(){
     var sairLoop, valor01, valor02
     do{
